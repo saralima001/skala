@@ -4,7 +4,6 @@
 <a href="#status"> Status do Projeto </a> <br/>
 <a href="#caracteristicas"> Características </a> <br/>
 <a href="#tecnologias"> Tecnologias </a> <br/>
-<a href="#screenshot"> Screenshot </a>
 
 <a name="descricao"/>
 
