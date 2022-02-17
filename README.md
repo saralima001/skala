@@ -14,7 +14,7 @@ Landing page fictícia do Creme de Tratamento Vinagre de Maçã da Skala.
 <a name="visitar"/>
 
 ## Visitar o Site
-<a href=""> Skala Vinagre de Maçã </a>
+<a href="https://saralima001.github.io/skala/"> Skala Vinagre de Maçã </a>
 
 <a name="status"/>
 
